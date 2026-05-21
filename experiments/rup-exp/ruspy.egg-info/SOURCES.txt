@@ -1,0 +1,7 @@
+ruspy.py
+setup.py
+ruspy.egg-info/PKG-INFO
+ruspy.egg-info/SOURCES.txt
+ruspy.egg-info/dependency_links.txt
+ruspy.egg-info/entry_points.txt
+ruspy.egg-info/top_level.txt
