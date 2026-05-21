@@ -27,8 +27,7 @@ go run structs/structs/main.go
 go run slices/slices/main.go
 go run maps/maps/main.go
 ```
-# Автор 
-- Отдельнов Дмитрий
+## Author: [Отдельнов Дмитрий] (edit-a)
 - Год создания: 2026
 - Проект завершён 21.05.2026
 
