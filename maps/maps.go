@@ -7,6 +7,7 @@ import (
 	"strings"
 )
 
+// this function counts how often you do repeat words
 func WordCount(text string) map[string]int {
 	words := strings.Fields(text)
 	WordMap := make(map[string]int)
